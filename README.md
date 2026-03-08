@@ -2,7 +2,7 @@
 
 A machine learning web app that classifies SMS messages as **spam** or **ham** using three different models — with a comparison dashboard to analyze their performance.
 
-**Live Demo**: [spam-detector.streamlit.app](https://spam-detector-navs.streamlit.app/) 
+**Live Demo**: [spam-detector-navs.streamlit.app](https://spam-detector-navs.streamlit.app/) 
 
 ---
 
